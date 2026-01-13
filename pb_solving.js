@@ -36,4 +36,4 @@ function maxOfThree(num1, num2, num3) {
   return largest;
 }
 const maxNumber = maxOfThree(85,97,99);
-console.log(maxNumber);
+console.log(maxNumber);                     
